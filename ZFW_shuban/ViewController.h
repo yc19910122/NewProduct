@@ -9,5 +9,13 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+{
+    UIButton *ppzx;
+    UIButton *ppgs;
+    UIButton *lxwm;
+    UIButton *cczs;
+    UIButton *ppmd;
+    UIButton *spxc;
+}
 
 @end

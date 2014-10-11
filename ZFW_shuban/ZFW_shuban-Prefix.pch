@@ -8,7 +8,21 @@
 #warning "This project uses features only available in iOS SDK 4.0 and later."
 #endif
 
+#define kDuration 1.0f
+
+//#define kh_UID 931875
+//#define kh_UID 614519
+//#define kh_UID 938478
+//#define kh_UID 933212
+//#define kh_UID 237037
+//#define kh_UID 923648
+//#define kh_UID 950647
+//#define kh_UID 950647
+//#define kh_UID 101861
+#define kh_UID 762613
+
 #ifdef __OBJC__
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
+    #import "ShareDate.h"
 #endif
